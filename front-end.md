@@ -41,6 +41,7 @@ Quanto mais melhor! :)
 ## Tecnologias e instruções
 
 -  Usar git.
+-  Usar componentes [vuetifyjs](https://vuetifyjs.com/en/introduction/why-vuetify)
 -  Caso necessário algum preparo antes de testar é necessário fornecer um INSTALL.md explicando o processo.
 
 ## Aquele plus (não obrigatório)
