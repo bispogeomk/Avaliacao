@@ -51,7 +51,7 @@ Quanto mais melhor! :)
 
 ## Tecnologias e instruções
 
--  O sistema deve ser escrito em ruby.
+-  O sistema deve ser escrito em Python com Django.
 -  Usar git.
 -  Caso necessário algum preparo antes de testar é necessário fornecer um INSTALL.md explicando o processo.
 
